@@ -1,6 +1,8 @@
 #include <stdio.h>
 int main()
 {
-	printf("Hello, Galaxy!");
+<<<<<<< HEAD
+	printf("Hello, Galaxy and universe!"); // person 1 and 2
+
 	return 0;
 }
